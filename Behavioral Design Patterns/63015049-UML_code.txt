@@ -1,0 +1,62 @@
+//Website https://www.planttext.com/
+
+//Code
+
+@startuml
+
+  
+  interface SortStrategy{
+    + customeSort(person : List<Person>) : void
+  }
+    
+  class NameSortStrategy{
+    + customeSort(person : List<Person>) : void
+  }
+  
+  class WeightStrategy{
+    + customeSort(person : List<Person>) : void
+  }
+  
+  class AgeSortStrategy{
+    + customeSort(person : List<Person>) : void
+  }
+  
+  class HeightStrategy{
+    + customeSort(person : List<Preson>) : void
+  }
+  
+  class Person{
+    - name : String
+    - age : Integer
+    - height : Integer
+    - weight : Integer
+    + getName() : String
+    + setName(name : String) : void
+    + getAge() : Integer
+    + setAge(age : Integer) : void
+    + getHeight() : Integer
+    + setHeight(height : Integer) : void
+    + getWeight() : Integer
+    + setWeight(weight : Integer) : void
+  }
+  
+  class Main{
+  }
+  class People{
+    + People()
+    + setSortStrategy(sortStrategy : SortStrategy) : void
+    + addMember(p : Person) : void
+    + print(out : PrintStream) : void
+  }
+  HeightStrategy ..|> SortStrategy
+  AgeSortStrategy ..|> SortStrategy
+  WeightStrategy ..|> SortStrategy
+  NameSortStrategy ..|> SortStrategy
+  Person o--> SortStrategy
+  Main ..> Person
+  Main ..> HeightStrategy
+  Main ..> AgeSortStrategy
+  Main ..> WeightStrategy
+  Main ..> NameSortStrategy
+  Person ..> People
+@enduml
