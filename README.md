@@ -19,3 +19,7 @@
 
 ## Structural Design Patterns
 - [Structural](https://github.com/NattaphonSuksomroop/HW-SOFTWARE-ARCHITECTURE-AND-DESIGN/tree/main/Structural%20Design%20Patterns)
+
+
+## Behavioral Design Patterns
+- [Behavioral](https://github.com/NattaphonSuksomroop/HW-SOFTWARE-ARCHITECTURE-AND-DESIGN/tree/main/Behavioral%20Design%20Patterns)
