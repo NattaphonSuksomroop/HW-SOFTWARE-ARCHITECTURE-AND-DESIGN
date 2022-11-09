@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="607px" preserveAspectRatio="none" style="width:931px;height:607px;background:#FFFFFF;" version="1.1" viewBox="0 0 931 607" width="931px" zoomAndPan="magnify"><defs/><g><!--MD5=[0bf7db4756a5f1eff4857e97033ddbaa]
+class HealthcareServiceable--><g id="elem_HealthcareServiceable"><rect codeLine="4" fill="#F1F1F1" height="73.9473" id="HealthcareServiceable" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="174" x="370.5" y="200"/><ellipse cx="385.5" cy="216" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M386.4531,212.6406 L386.4531,219.2969 L388.1719,219.2969 Q388.7813,219.2969 389.0469,219.5313 Q389.3125,219.7656 389.3125,220.1563 Q389.3125,220.5313 389.0469,220.7656 Q388.7813,221 388.1719,221 L383.0313,221 Q382.4219,221 382.1563,220.7656 Q381.8906,220.5313 381.8906,220.1406 Q381.8906,219.7656 382.1563,219.5313 Q382.4219,219.2969 383.0313,219.2969 L384.75,219.2969 L384.75,212.6406 L383.0313,212.6406 Q382.4219,212.6406 382.1563,212.4063 Q381.8906,212.1719 381.8906,211.7813 Q381.8906,211.4063 382.1563,211.1719 Q382.4219,210.9375 383.0313,210.9375 L388.1719,210.9375 Q388.7813,210.9375 389.0469,211.1719 Q389.3125,211.4063 389.3125,211.7813 Q389.3125,212.1719 389.0469,212.4063 Q388.7813,212.6406 388.1719,212.6406 L386.4531,212.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="142" x="399.5" y="221.52">HealthcareServiceable</text><line style="stroke:#181818;stroke-width:0.5;" x1="371.5" x2="543.5" y1="232" y2="232"/><ellipse cx="381.5" cy="245.9868" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="390.5" y="250.0068">service() : void</text><ellipse cx="381.5" cy="262.9604" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="390.5" y="266.9805">getPrice() : double</text></g><!--MD5=[3409a218d36f0b39ff24677bfe948fe3]
+class HealthcareWorker--><g id="elem_HealthcareWorker"><rect codeLine="8" fill="#F1F1F1" height="132.8682" id="HealthcareWorker" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="328" x="293.5" y="334"/><ellipse cx="394.75" cy="350" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M396.9375,351.7656 L392.7969,351.7656 L392.375,352.7969 L392.7969,352.7969 Q393.4063,352.7969 393.6719,353.0313 Q393.9375,353.2656 393.9375,353.6563 Q393.9375,354.0313 393.6719,354.2656 Q393.4063,354.5 392.7969,354.5 L390.5,354.5 Q389.8906,354.5 389.6406,354.2656 Q389.375,354.0313 389.375,353.6406 Q389.375,353.2656 389.6563,353.0313 Q389.9219,352.7813 390.5469,352.7969 L393.2188,346.1406 L392.1094,346.1406 Q391.5,346.1406 391.2344,345.9063 Q390.9688,345.6719 390.9688,345.2813 Q390.9688,344.9063 391.2344,344.6719 Q391.5,344.4375 392.1094,344.4375 L395.7813,344.4375 L399.1719,352.7969 Q399.7656,352.7969 399.9531,352.9375 Q400.3438,353.2031 400.3438,353.6563 Q400.3438,354.0313 400.0781,354.2656 Q399.8281,354.5 399.2188,354.5 L396.9219,354.5 Q396.3125,354.5 396.0469,354.2656 Q395.7813,354.0313 395.7813,353.6406 Q395.7813,353.2656 396.0469,353.0313 Q396.3125,352.7969 396.9219,352.7969 L397.3438,352.7969 L396.9375,351.7656 Z M396.2188,350.0625 L394.8594,346.6875 L393.4844,350.0625 L396.2188,350.0625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="117" x="415.25" y="355.52">HealthcareWorker</text><line style="stroke:#181818;stroke-width:0.5;" x1="294.5" x2="620.5" y1="366" y2="366"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="301.5" y="376.9868"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="313.5" y="384.0068">name : String</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="301.5" y="393.9604"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="313.5" y="400.9805">price : double</text><line style="stroke:#181818;stroke-width:0.5;" x1="294.5" x2="620.5" y1="407.9473" y2="407.9473"/><ellipse cx="304.5" cy="421.9341" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="302" x="313.5" y="425.9541">HealthcareWorker(name : String, price : double)</text><ellipse cx="304.5" cy="438.9077" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="91" x="313.5" y="442.9277">service() : void</text><ellipse cx="304.5" cy="455.8813" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="313.5" y="459.9014">getPrice() : double</text></g><!--MD5=[1c676b0f39eaab18c86d9e4221ae25b2]
+class HealthcareWorkerTeam--><g id="elem_HealthcareWorkerTeam"><rect codeLine="15" fill="#F1F1F1" height="132.8682" id="HealthcareWorkerTeam" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="275" x="320" y="7"/><ellipse cx="378.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M381.0156,18.875 Q381.1719,18.6563 381.3594,18.5469 Q381.5469,18.4375 381.7656,18.4375 Q382.1406,18.4375 382.375,18.7031 Q382.6094,18.9531 382.6094,19.5625 L382.6094,21.0156 Q382.6094,21.625 382.375,21.8906 Q382.1406,22.1563 381.7656,22.1563 Q381.4219,22.1563 381.2188,21.9531 Q381.0156,21.7656 380.9063,21.25 Q380.8594,20.8906 380.6719,20.7031 Q380.3438,20.3281 379.7344,20.1094 Q379.125,19.8906 378.5,19.8906 Q377.7344,19.8906 377.0938,20.2188 Q376.4688,20.5469 375.9688,21.2969 Q375.4844,22.0469 375.4844,23.0781 L375.4844,24.1719 Q375.4844,25.4063 376.375,26.2344 Q377.2656,27.0469 378.8594,27.0469 Q379.7969,27.0469 380.4531,26.7969 Q380.8438,26.6406 381.2656,26.2031 Q381.5313,25.9375 381.6719,25.8594 Q381.8281,25.7813 382.0313,25.7813 Q382.3594,25.7813 382.6094,26.0469 Q382.875,26.2969 382.875,26.6406 Q382.875,26.9844 382.5313,27.3906 Q382.0313,27.9688 381.2344,28.2969 Q380.1563,28.75 378.8594,28.75 Q377.3438,28.75 376.1406,28.125 Q375.1563,27.625 374.4688,26.5625 Q373.7813,25.4844 373.7813,24.2031 L373.7813,23.0469 Q373.7813,21.7188 374.3906,20.5781 Q375.0156,19.4219 376.1094,18.8125 Q377.2031,18.1875 378.4375,18.1875 Q379.1719,18.1875 379.8125,18.3594 Q380.4688,18.5156 381.0156,18.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="398.75" y="28.52">HealthcareWorkerTeam</text><line style="stroke:#181818;stroke-width:0.5;" x1="321" x2="594" y1="39" y2="39"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="328" y="49.9868"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="249" x="340" y="57.0068">members : Set&lt;HealthcareServiceable&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="321" x2="594" y1="63.9736" y2="63.9736"/><ellipse cx="331" cy="77.9604" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="340" y="81.9805">addMember() : void</text><ellipse cx="331" cy="94.9341" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="340" y="98.9541">removeMember() : void</text><ellipse cx="331" cy="111.9077" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="340" y="115.9277">service() : void</text><ellipse cx="331" cy="128.8813" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="340" y="132.9014">getPrice() : double</text></g><!--MD5=[a059576e163b46f56762f12600c49258]
+class Nurse--><g id="elem_Nurse"><rect codeLine="22" fill="#F1F1F1" height="73.9473" id="Nurse" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="251" x="7" y="363.5"/><ellipse cx="109.75" cy="379.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M112.5156,375.375 Q112.6719,375.1563 112.8594,375.0469 Q113.0469,374.9375 113.2656,374.9375 Q113.6406,374.9375 113.875,375.2031 Q114.1094,375.4531 114.1094,376.0625 L114.1094,377.5156 Q114.1094,378.125 113.875,378.3906 Q113.6406,378.6563 113.2656,378.6563 Q112.9219,378.6563 112.7188,378.4531 Q112.5156,378.2656 112.4063,377.75 Q112.3594,377.3906 112.1719,377.2031 Q111.8438,376.8281 111.2344,376.6094 Q110.625,376.3906 110,376.3906 Q109.2344,376.3906 108.5938,376.7188 Q107.9688,377.0469 107.4688,377.7969 Q106.9844,378.5469 106.9844,379.5781 L106.9844,380.6719 Q106.9844,381.9063 107.875,382.7344 Q108.7656,383.5469 110.3594,383.5469 Q111.2969,383.5469 111.9531,383.2969 Q112.3438,383.1406 112.7656,382.7031 Q113.0313,382.4375 113.1719,382.3594 Q113.3281,382.2813 113.5313,382.2813 Q113.8594,382.2813 114.1094,382.5469 Q114.375,382.7969 114.375,383.1406 Q114.375,383.4844 114.0313,383.8906 Q113.5313,384.4688 112.7344,384.7969 Q111.6563,385.25 110.3594,385.25 Q108.8438,385.25 107.6406,384.625 Q106.6563,384.125 105.9688,383.0625 Q105.2813,381.9844 105.2813,380.7031 L105.2813,379.5469 Q105.2813,378.2188 105.8906,377.0781 Q106.5156,375.9219 107.6094,375.3125 Q108.7031,374.6875 109.9375,374.6875 Q110.6719,374.6875 111.3125,374.8594 Q111.9688,375.0156 112.5156,375.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="130.25" y="385.02">Nurse</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="257" y1="395.5" y2="395.5"/><ellipse cx="18" cy="409.4868" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="225" x="27" y="413.5068">Nurse(name : String, price : double)</text><ellipse cx="18" cy="426.4604" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="27" y="430.4805">service() : void</text></g><!--MD5=[1d0c928ac6c71d4138571e75d7d424e5]
+class Surgeon--><g id="elem_Surgeon"><rect codeLine="26" fill="#F1F1F1" height="73.9473" id="Surgeon" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="268" x="656.5" y="363.5"/><ellipse cx="759.25" cy="379.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M762.0156,375.375 Q762.1719,375.1563 762.3594,375.0469 Q762.5469,374.9375 762.7656,374.9375 Q763.1406,374.9375 763.375,375.2031 Q763.6094,375.4531 763.6094,376.0625 L763.6094,377.5156 Q763.6094,378.125 763.375,378.3906 Q763.1406,378.6563 762.7656,378.6563 Q762.4219,378.6563 762.2188,378.4531 Q762.0156,378.2656 761.9063,377.75 Q761.8594,377.3906 761.6719,377.2031 Q761.3438,376.8281 760.7344,376.6094 Q760.125,376.3906 759.5,376.3906 Q758.7344,376.3906 758.0938,376.7188 Q757.4688,377.0469 756.9688,377.7969 Q756.4844,378.5469 756.4844,379.5781 L756.4844,380.6719 Q756.4844,381.9063 757.375,382.7344 Q758.2656,383.5469 759.8594,383.5469 Q760.7969,383.5469 761.4531,383.2969 Q761.8438,383.1406 762.2656,382.7031 Q762.5313,382.4375 762.6719,382.3594 Q762.8281,382.2813 763.0313,382.2813 Q763.3594,382.2813 763.6094,382.5469 Q763.875,382.7969 763.875,383.1406 Q763.875,383.4844 763.5313,383.8906 Q763.0313,384.4688 762.2344,384.7969 Q761.1563,385.25 759.8594,385.25 Q758.3438,385.25 757.1406,384.625 Q756.1563,384.125 755.4688,383.0625 Q754.7813,381.9844 754.7813,380.7031 L754.7813,379.5469 Q754.7813,378.2188 755.3906,377.0781 Q756.0156,375.9219 757.1094,375.3125 Q758.2031,374.6875 759.4375,374.6875 Q760.1719,374.6875 760.8125,374.8594 Q761.4688,375.0156 762.0156,375.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="779.75" y="385.02">Surgeon</text><line style="stroke:#181818;stroke-width:0.5;" x1="657.5" x2="923.5" y1="395.5" y2="395.5"/><ellipse cx="667.5" cy="409.4868" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="242" x="676.5" y="413.5068">Surgeon(name : String, price : double)</text><ellipse cx="667.5" cy="426.4604" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="676.5" y="430.4805">service() : void</text></g><!--MD5=[2d53307540ce1ed7dbd1abbdf3ddac8f]
+class Anesthesiologist--><g id="elem_Anesthesiologist"><rect codeLine="30" fill="#F1F1F1" height="73.9473" id="Anesthesiologist" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="317" x="130" y="527"/><ellipse cx="232.75" cy="543" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M235.5156,538.875 Q235.6719,538.6563 235.8594,538.5469 Q236.0469,538.4375 236.2656,538.4375 Q236.6406,538.4375 236.875,538.7031 Q237.1094,538.9531 237.1094,539.5625 L237.1094,541.0156 Q237.1094,541.625 236.875,541.8906 Q236.6406,542.1563 236.2656,542.1563 Q235.9219,542.1563 235.7188,541.9531 Q235.5156,541.7656 235.4063,541.25 Q235.3594,540.8906 235.1719,540.7031 Q234.8438,540.3281 234.2344,540.1094 Q233.625,539.8906 233,539.8906 Q232.2344,539.8906 231.5938,540.2188 Q230.9688,540.5469 230.4688,541.2969 Q229.9844,542.0469 229.9844,543.0781 L229.9844,544.1719 Q229.9844,545.4063 230.875,546.2344 Q231.7656,547.0469 233.3594,547.0469 Q234.2969,547.0469 234.9531,546.7969 Q235.3438,546.6406 235.7656,546.2031 Q236.0313,545.9375 236.1719,545.8594 Q236.3281,545.7813 236.5313,545.7813 Q236.8594,545.7813 237.1094,546.0469 Q237.375,546.2969 237.375,546.6406 Q237.375,546.9844 237.0313,547.3906 Q236.5313,547.9688 235.7344,548.2969 Q234.6563,548.75 233.3594,548.75 Q231.8438,548.75 230.6406,548.125 Q229.6563,547.625 228.9688,546.5625 Q228.2813,545.4844 228.2813,544.2031 L228.2813,543.0469 Q228.2813,541.7188 228.8906,540.5781 Q229.5156,539.4219 230.6094,538.8125 Q231.7031,538.1875 232.9375,538.1875 Q233.6719,538.1875 234.3125,538.3594 Q234.9688,538.5156 235.5156,538.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="253.25" y="548.52">Anesthesiologist</text><line style="stroke:#181818;stroke-width:0.5;" x1="131" x2="446" y1="559" y2="559"/><ellipse cx="141" cy="572.9868" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="291" x="150" y="577.0068">Anesthesiologist(name : String, price : double)</text><ellipse cx="141" cy="589.9604" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="150" y="593.9805">service() : void</text></g><!--MD5=[6e330891df2672e19499ff86ae688a18]
+class Cardiologist--><g id="elem_Cardiologist"><rect codeLine="34" fill="#F1F1F1" height="73.9473" id="Cardiologist" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="289" x="482" y="527"/><ellipse cx="584.75" cy="543" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M587.5156,538.875 Q587.6719,538.6563 587.8594,538.5469 Q588.0469,538.4375 588.2656,538.4375 Q588.6406,538.4375 588.875,538.7031 Q589.1094,538.9531 589.1094,539.5625 L589.1094,541.0156 Q589.1094,541.625 588.875,541.8906 Q588.6406,542.1563 588.2656,542.1563 Q587.9219,542.1563 587.7188,541.9531 Q587.5156,541.7656 587.4063,541.25 Q587.3594,540.8906 587.1719,540.7031 Q586.8438,540.3281 586.2344,540.1094 Q585.625,539.8906 585,539.8906 Q584.2344,539.8906 583.5938,540.2188 Q582.9688,540.5469 582.4688,541.2969 Q581.9844,542.0469 581.9844,543.0781 L581.9844,544.1719 Q581.9844,545.4063 582.875,546.2344 Q583.7656,547.0469 585.3594,547.0469 Q586.2969,547.0469 586.9531,546.7969 Q587.3438,546.6406 587.7656,546.2031 Q588.0313,545.9375 588.1719,545.8594 Q588.3281,545.7813 588.5313,545.7813 Q588.8594,545.7813 589.1094,546.0469 Q589.375,546.2969 589.375,546.6406 Q589.375,546.9844 589.0313,547.3906 Q588.5313,547.9688 587.7344,548.2969 Q586.6563,548.75 585.3594,548.75 Q583.8438,548.75 582.6406,548.125 Q581.6563,547.625 580.9688,546.5625 Q580.2813,545.4844 580.2813,544.2031 L580.2813,543.0469 Q580.2813,541.7188 580.8906,540.5781 Q581.5156,539.4219 582.6094,538.8125 Q583.7031,538.1875 584.9375,538.1875 Q585.6719,538.1875 586.3125,538.3594 Q586.9688,538.5156 587.5156,538.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="605.25" y="548.52">Cardiologist</text><line style="stroke:#181818;stroke-width:0.5;" x1="483" x2="770" y1="559" y2="559"/><ellipse cx="493" cy="572.9868" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="263" x="502" y="577.0068">Cardiologist(name : String, price : double)</text><ellipse cx="493" cy="589.9604" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="502" y="593.9805">service() : void</text></g><!--MD5=[a0a25157291f6d799a1fca097afef6fa]
+reverse link HealthcareServiceable to HealthcareWorker--><g id="link_HealthcareServiceable_HealthcareWorker"><path codeLine="40" d="M457.5,294.53 C457.5,307.22 457.5,320.8 457.5,333.83 " fill="none" id="HealthcareServiceable-backto-HealthcareWorker" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="450.5,294.24,457.5,274.24,464.5,294.24,450.5,294.24" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0a7cf4853dc964fdc2fb37a553cab3db]
+link HealthcareWorkerTeam to HealthcareServiceable--><g id="link_HealthcareWorkerTeam_HealthcareServiceable"><path codeLine="41" d="M444.95,140.19 C444.6,153.17 444.71,166.68 445.27,179.33 " fill="none" id="HealthcareWorkerTeam-to-HealthcareServiceable" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="452.27,179.13,446.64,199.55,438.3,180.07,452.27,179.13" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0a7cf4853dc964fdc2fb37a553cab3db]
+link HealthcareWorkerTeam to HealthcareServiceable--><g id="link_HealthcareWorkerTeam_HealthcareServiceable"><path codeLine="42" d="M470.9746,152.1886 C470.9746,152.1886 470.72,176.01 470.06,186.42 " fill="none" id="HealthcareWorkerTeam-HealthcareServiceable" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="469,199.55,473.7091,190.8999,469.4011,194.5661,465.7349,190.2581,469,199.55" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="469.4011" x2="470.045" y1="194.5661" y2="186.595"/><polygon fill="none" points="470.79,140.19,466.8828,146.2508,470.9746,152.1886,474.8818,146.1278,470.79,140.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bf0bf8bf81c85a83308669e6ba7db99e]
+reverse link HealthcareWorker to Anesthesiologist--><g id="link_HealthcareWorker_Anesthesiologist"><path codeLine="43" d="M374.2,481.1 C357.55,497.02 340.83,512.99 326.64,526.55 " fill="none" id="HealthcareWorker-backto-Anesthesiologist" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="369.47,475.95,388.76,467.19,379.14,486.07,369.47,475.95" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4650b61a76d35492305ec214103962e6]
+reverse link HealthcareWorker to Cardiologist--><g id="link_HealthcareWorker_Cardiologist"><path codeLine="44" d="M540.8,481.1 C557.45,497.02 574.17,512.99 588.36,526.55 " fill="none" id="HealthcareWorker-backto-Cardiologist" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="535.86,486.07,526.24,467.19,545.53,475.95,535.86,486.07" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ab8e6f9abd94367990b8b6e9f0ae44ce]
+link Nurse to HealthcareWorker--><g id="link_Nurse_HealthcareWorker"><path codeLine="45" d="M258.18,400.5 C263.11,400.5 268.04,400.5 272.96,400.5 " fill="none" id="Nurse-to-HealthcareWorker" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="273.22,393.5,293.22,400.5,273.22,407.5,273.22,393.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3ac8787a9288a27b3325a4616e2d8761]
+reverse link HealthcareWorker to Surgeon--><g id="link_HealthcareWorker_Surgeon"><path codeLine="46" d="M641.73,400.5 C646.6,400.5 651.47,400.5 656.34,400.5 " fill="none" id="HealthcareWorker-backto-Surgeon" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="641.72,407.5,621.72,400.5,641.72,393.5,641.72,407.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d78e7c6153a02eb12f48370146e230e7]
+@startuml
+'https://plantuml.com/class-diagram
+
+'class Main
+interface HealthcareServiceable {
+    + service() : void
+    + getPrice() : double
+}
+abstract HealthcareWorker {
+    - name : String
+    - price : double
+    + HealthcareWorker(name : String, price : double)
+    + {abstract} service() : void
+    + getPrice() : double
+}
+class HealthcareWorkerTeam {
+    - members : Set<HealthcareServiceable>
+    + addMember() : void
+    + removeMember() : void
+    + service() : void
+    + getPrice() : double
+}
+class Nurse {
+    + Nurse(name : String, price : double)
+    + service() : void
+}
+class Surgeon {
+    + Surgeon(name : String, price : double)
+    + service() : void
+}
+class Anesthesiologist {
+    + Anesthesiologist(name : String, price : double)
+    + service() : void
+}
+class Cardiologist {
+    + Cardiologist(name : String, price : double)
+    + service() : void
+}
+
+'Main  -l->    HealthcareServiceable
+HealthcareServiceable   ^.d.    HealthcareWorker
+HealthcareServiceable   ^.u.    HealthcareWorkerTeam
+HealthcareServiceable   <-u-o   HealthcareWorkerTeam
+HealthcareWorker    ^-d-    Anesthesiologist
+HealthcareWorker    ^-d-    Cardiologist
+HealthcareWorker    ^-l-    Nurse
+HealthcareWorker    ^-r-    Surgeon
+
+hide empty members
+@enduml
+
+@startuml
+
+interface HealthcareServiceable {
+    + service() : void
+    + getPrice() : double
+}
+abstract HealthcareWorker {
+    - name : String
+    - price : double
+    + HealthcareWorker(name : String, price : double)
+    + {abstract} service() : void
+    + getPrice() : double
+}
+class HealthcareWorkerTeam {
+    - members : Set<HealthcareServiceable>
+    + addMember() : void
+    + removeMember() : void
+    + service() : void
+    + getPrice() : double
+}
+class Nurse {
+    + Nurse(name : String, price : double)
+    + service() : void
+}
+class Surgeon {
+    + Surgeon(name : String, price : double)
+    + service() : void
+}
+class Anesthesiologist {
+    + Anesthesiologist(name : String, price : double)
+    + service() : void
+}
+class Cardiologist {
+    + Cardiologist(name : String, price : double)
+    + service() : void
+}
+
+HealthcareServiceable   ^.d.    HealthcareWorker
+HealthcareServiceable   ^.u.    HealthcareWorkerTeam
+HealthcareServiceable   <-u-o   HealthcareWorkerTeam
+HealthcareWorker    ^-d-    Anesthesiologist
+HealthcareWorker    ^-d-    Cardiologist
+HealthcareWorker    ^-l-    Nurse
+HealthcareWorker    ^-r-    Surgeon
+
+hide empty members
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 00:01:30 ICT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: MS874
+Language: en
+Country: US
+--></g></svg>
