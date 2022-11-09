@@ -16,3 +16,6 @@
 
 ## Creational Design Patterns
 - [creational](https://github.com/NattaphonSuksomroop/HW-SOFTWARE-ARCHITECTURE-AND-DESIGN/tree/main/Creational%20Design%20Patterns)
+
+## Structural Design Patterns
+- [Structural](https://github.com/NattaphonSuksomroop/HW-SOFTWARE-ARCHITECTURE-AND-DESIGN/tree/main/Structural%20Design%20Patterns)
